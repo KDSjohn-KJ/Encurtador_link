@@ -4,7 +4,6 @@ Script simples em Python que encurta URLs usando a API gratuita do [is.gd](https
 
 Repositório oficial: [https://github.com/KDSjohn-KJ/Encurtador_link.git](https://github.com/KDSjohn-KJ/Encurtador_link.git)
 
----
 
 ## Requisitos
 
@@ -13,7 +12,6 @@ Repositório oficial: [https://github.com/KDSjohn-KJ/Encurtador_link.git](https:
 - Conexão com a internet
 - Permissão de acesso à rede no Termux
 
----
 
 ## 🛠️ Instalação no Termux
 
@@ -34,3 +32,4 @@ git clone https://github.com/KDSjohn-KJ/Encurtador_link.git
 
 # Acesse a pasta do projeto
 cd Encurtador_link
+python encurtador.py
